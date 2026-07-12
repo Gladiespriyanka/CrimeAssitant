@@ -1,0 +1,1234 @@
+[
+  {
+    "question": "My husband beats me regularly. What can I do?",
+    "type": "Marriage and family",
+    "answers": [
+      "File a domestic violence complaint with the police or a protection officer under the Protection of Women from Domestic Violence Act.",
+      "Consult a family lawyer about a protection order, maintenance, or divorce."
+    ]
+  },
+  {
+    "question": "My wife wants a divorce. What are my options?",
+    "type": "Marriage and family",
+    "answers": [
+      "Consult a family lawyer to understand your rights over property, custody, and maintenance.",
+      "Mutual consent divorce is faster if both parties agree on terms."
+    ]
+  },
+  {
+    "question": "My husband is not giving me maintenance after separation.",
+    "type": "Marriage and family",
+    "answers": [
+      "You can file a maintenance application under Section 125 CrPC or the relevant family law provision.",
+      "Keep records of your income needs and your spouse's earnings to support your claim."
+    ]
+  },
+  {
+    "question": "I want to file for mutual consent divorce.",
+    "type": "Marriage and family",
+    "answers": [
+      "Both spouses must agree on divorce and settle issues like alimony, custody, and property division.",
+      "A joint petition is filed in family court, typically followed by a statutory waiting period before the decree."
+    ]
+  },
+  {
+    "question": "My in-laws are harassing me for dowry.",
+    "type": "Marriage and family",
+    "answers": [
+      "Dowry harassment is a criminal offence; you can file a police complaint under anti-dowry and cruelty laws.",
+      "Preserve evidence such as messages, witnesses, and medical records if there has been abuse."
+    ]
+  },
+  {
+    "question": "I want custody of my child after separation.",
+    "type": "Marriage and family",
+    "answers": [
+      "Custody is decided based on the child's welfare; consult a family lawyer about filing a custody petition.",
+      "Maintain records of your involvement in the child's care and living situation to support your case."
+    ]
+  },
+  {
+    "question": "My husband is having an affair. What can I do?",
+    "type": "Marriage and family",
+    "answers": [
+      "Adultery itself is no longer a standalone criminal offence, but it can be grounds for divorce.",
+      "Consult a family lawyer about filing for divorce and related claims such as maintenance."
+    ]
+  },
+  {
+    "question": "We are unmarried partners and want to know our legal rights.",
+    "type": "Marriage and family",
+    "answers": [
+      "Live-in relationships have some recognized rights, including protection from domestic violence and maintenance in certain cases.",
+      "Consult a family lawyer to understand property, inheritance, and child-related rights specific to your situation."
+    ]
+  },
+  {
+    "question": "My employer made me resign forcefully.",
+    "type": "Labour dispute",
+    "answers": [
+      "Keep emails, messages, and any evidence showing pressure to resign.",
+      "Consult a labour lawyer or labour authority to determine whether you can challenge the resignation."
+    ]
+  },
+  {
+    "question": "My boss is not paying my salary.",
+    "type": "Labour dispute",
+    "answers": [
+      "Send a written demand and keep salary records.",
+      "You may file a complaint before the labour commissioner or industrial tribunal if payment is withheld."
+    ]
+  },
+  {
+    "question": "I am being forced to work overtime and weekends without extra payment.",
+    "type": "Labour dispute",
+    "answers": [
+      "Check your employment contract and applicable labour laws on working hours and overtime pay.",
+      "Keep records of hours worked and raise a written complaint with your employer or the labour department."
+    ]
+  },
+  {
+    "question": "I was fired without any notice or reason.",
+    "type": "Labour dispute",
+    "answers": [
+      "Review your employment contract for notice period and termination clauses.",
+      "Consult a labour lawyer about wrongful termination and possible compensation."
+    ]
+  },
+  {
+    "question": "My employer is not giving me my final settlement after resignation.",
+    "type": "Labour dispute",
+    "answers": [
+      "Send a written request for full and final settlement including pending salary, leave encashment, and dues.",
+      "Escalate to the labour commissioner if the employer continues to withhold your dues."
+    ]
+  },
+  {
+    "question": "I am facing sexual harassment at my workplace.",
+    "type": "Labour dispute",
+    "answers": [
+      "Report the incident to your organization's Internal Complaints Committee (ICC) under the POSH Act.",
+      "You can also file a police complaint; keep records of incidents, messages, and witnesses."
+    ]
+  },
+  {
+    "question": "My company is not depositing my provident fund (PF) contributions.",
+    "type": "Labour dispute",
+    "answers": [
+      "Check your PF passbook/UAN portal to confirm missing contributions.",
+      "File a complaint with the Employees' Provident Fund Organisation (EPFO) if your employer isn't depositing dues."
+    ]
+  },
+  {
+    "question": "I was denied maternity leave by my employer.",
+    "type": "Labour dispute",
+    "answers": [
+      "Maternity leave and benefits are protected under labour law; put your request in writing.",
+      "Consult a labour lawyer or file a complaint with the labour department if leave is unlawfully denied."
+    ]
+  },
+  {
+    "question": "My bike was hit by a car. What should I do?",
+    "type": "Traffic accident",
+    "answers": [
+      "Take photos, seek medical care if needed, and file a police report (FIR).",
+      "Notify your insurer and preserve all evidence, including witness contacts."
+    ]
+  },
+  {
+    "question": "I was injured in a road accident caused by another driver.",
+    "type": "Traffic accident",
+    "answers": [
+      "Get medical treatment first and obtain a medical report documenting your injuries.",
+      "File an FIR and consult a lawyer about a motor accident compensation claim."
+    ]
+  },
+  {
+    "question": "My car was damaged in a hit-and-run accident.",
+    "type": "Traffic accident",
+    "answers": [
+      "File an FIR immediately, noting any partial vehicle number or witness details.",
+      "Inform your insurer promptly, as hit-and-run claims often have strict reporting timelines."
+    ]
+  },
+  {
+    "question": "The other driver is refusing to pay for accident damages.",
+    "type": "Traffic accident",
+    "answers": [
+      "Document the damage with photos and repair estimates.",
+      "You can pursue a claim through your insurer or file a case in the Motor Accident Claims Tribunal."
+    ]
+  },
+  {
+    "question": "How do I claim insurance after a road accident?",
+    "type": "Traffic accident",
+    "answers": [
+      "Report the accident to your insurer within the required timeframe and file an FIR if there's third-party damage or injury.",
+      "Submit the claim form along with the FIR copy, repair estimates, and photos of the damage."
+    ]
+  },
+  {
+    "question": "I received a traffic challan I believe is unfair.",
+    "type": "Traffic accident",
+    "answers": [
+      "Check the challan details and evidence (such as camera footage) before deciding to contest it.",
+      "You can contest a challan in the designated traffic court or through the online portal, depending on your jurisdiction."
+    ]
+  },
+  {
+    "question": "Someone died in an accident I was involved in. What are my legal risks?",
+    "type": "Traffic accident",
+    "answers": [
+      "Consult a criminal defence lawyer immediately, as this can involve serious criminal liability.",
+      "Cooperate with the police investigation and avoid making statements without legal counsel present."
+    ]
+  },
+  {
+    "question": "My insurance company is denying my accident claim.",
+    "type": "Traffic accident",
+    "answers": [
+      "Ask the insurer in writing for the specific reason for denial.",
+      "You can escalate to the insurance ombudsman or consult a lawyer about disputing the denial."
+    ]
+  },
+  {
+    "question": "My friend refuses to return borrowed money.",
+    "type": "Debt dispute",
+    "answers": [
+      "Send a written demand (a legal notice, if needed) requesting repayment with a deadline.",
+      "If unresolved, you can file a civil recovery suit; having any written proof of the loan helps."
+    ]
+  },
+  {
+    "question": "A company is not refunding money I paid in advance.",
+    "type": "Debt dispute",
+    "answers": [
+      "Send a written notice demanding a refund within a specific timeframe.",
+      "You can file a complaint with the consumer forum or pursue civil recovery if they don't comply."
+    ]
+  },
+  {
+    "question": "I am being harassed by loan recovery agents.",
+    "type": "Debt dispute",
+    "answers": [
+      "Recovery agents must follow fair practice guidelines; harassment or threats can be reported to the lender and the RBI/regulator.",
+      "Keep records of harassment (calls, messages, visits) as evidence for a formal complaint."
+    ]
+  },
+  {
+    "question": "Someone issued me a cheque that bounced.",
+    "type": "Debt dispute",
+    "answers": [
+      "A bounced cheque can be pursued under Section 138 of the Negotiable Instruments Act.",
+      "Send a legal notice demanding payment within 15 days of the bounce memo before filing a complaint."
+    ]
+  },
+  {
+    "question": "I can't repay my personal loan and the bank is threatening legal action.",
+    "type": "Debt dispute",
+    "answers": [
+      "Communicate with the bank about restructuring or a repayment plan before it escalates.",
+      "Consult a lawyer if you're facing aggressive recovery action or think your rights are being violated."
+    ]
+  },
+  {
+    "question": "My business partner owes me money and won't pay.",
+    "type": "Debt dispute",
+    "answers": [
+      "Review your partnership agreement for dispute resolution clauses.",
+      "Consult a lawyer about sending a legal notice or filing a civil suit for recovery."
+    ]
+  },
+  {
+    "question": "I lent money without any written agreement. Can I still recover it?",
+    "type": "Debt dispute",
+    "answers": [
+      "You can still pursue recovery using other evidence such as bank transfer records, messages, or witnesses.",
+      "Consult a lawyer about filing a civil recovery suit; written agreements make this easier but aren't the only proof."
+    ]
+  },
+  {
+    "question": "I'm being asked to pay a debt that isn't mine.",
+    "type": "Debt dispute",
+    "answers": [
+      "Ask the creditor or agent for documentation proving the debt is yours before making any payment.",
+      "If it's a case of mistaken identity or fraud, report it in writing and consult a lawyer if the demands continue."
+    ]
+  },
+  {
+    "question": "Someone filed a false FIR against me.",
+    "type": "Criminal defence",
+    "answers": [
+      "Consult a criminal lawyer immediately to understand the charges and your options, including anticipatory bail.",
+      "You can also file a counter-complaint or petition to quash the FIR if it's clearly false."
+    ]
+  },
+  {
+    "question": "I have been falsely accused of theft.",
+    "type": "Criminal defence",
+    "answers": [
+      "Do not make any statement to the police without a lawyer present.",
+      "Gather evidence and witnesses that support your innocence, and consult a criminal defence lawyer promptly."
+    ]
+  },
+  {
+    "question": "Police are threatening to arrest me without a warrant.",
+    "type": "Criminal defence",
+    "answers": [
+      "Know that for most non-cognizable offences police need a warrant; consult a lawyer immediately about your rights.",
+      "You may be able to apply for anticipatory bail if you fear arrest."
+    ]
+  },
+  {
+    "question": "I was arrested and don't know my rights.",
+    "type": "Criminal defence",
+    "answers": [
+      "You have the right to know the grounds of arrest and to consult a lawyer.",
+      "You must be produced before a magistrate within 24 hours of arrest; contact a criminal lawyer right away."
+    ]
+  },
+  {
+    "question": "I need to apply for bail. What is the process?",
+    "type": "Criminal defence",
+    "answers": [
+      "Consult a criminal lawyer to file a bail application in the appropriate court based on the nature of the offence.",
+      "Depending on the case, you may apply for regular, anticipatory, or interim bail."
+    ]
+  },
+  {
+    "question": "Someone is threatening to file a false case against me.",
+    "type": "Criminal defence",
+    "answers": [
+      "Keep evidence of the threats (messages, recordings, witnesses).",
+      "Consult a lawyer about pre-emptive legal steps, including anticipatory bail if a false case seems likely."
+    ]
+  },
+  {
+    "question": "I was assaulted by someone. What legal action can I take?",
+    "type": "Criminal defence",
+    "answers": [
+      "Seek medical attention and get an injury report, then file a police complaint/FIR.",
+      "Consult a lawyer about pursuing criminal charges and possible compensation."
+    ]
+  },
+  {
+    "question": "I received a police summons. What should I do?",
+    "type": "Criminal defence",
+    "answers": [
+      "Do not ignore a summons; consult a lawyer before responding or appearing.",
+      "Bring any relevant documents and legal representation to the appearance if advised."
+    ]
+  },
+  {
+    "question": "Someone has occupied my land illegally.",
+    "type": "Property dispute",
+    "answers": [
+      "Collect ownership records and photographs of the property.",
+      "Consult a property lawyer about eviction or recovery proceedings, and consider filing a police complaint if there's trespass."
+    ]
+  },
+  {
+    "question": "My neighbour is threatening me over a property boundary dispute.",
+    "type": "Property dispute",
+    "answers": [
+      "Keep property documents, photos, and evidence of the threats.",
+      "If you fear for your safety, contact the police; you may also file a civil case regarding the boundary."
+    ]
+  },
+  {
+    "question": "My siblings are refusing to give me my share of ancestral property.",
+    "type": "Property dispute",
+    "answers": [
+      "Gather property and succession documents establishing your inheritance rights.",
+      "Consult a property lawyer about filing a partition suit if the matter can't be resolved amicably."
+    ]
+  },
+  {
+    "question": "A builder is delaying possession of my flat.",
+    "type": "Property dispute",
+    "answers": [
+      "Review your builder-buyer agreement for the promised possession date and penalty clauses.",
+      "You can file a complaint with the real estate regulator (RERA) or consumer forum for delay compensation."
+    ]
+  },
+  {
+    "question": "My tenant is refusing to vacate the property.",
+    "type": "Property dispute",
+    "answers": [
+      "Review your rental agreement and applicable tenancy laws regarding notice periods.",
+      "Consult a lawyer about filing an eviction suit if the tenant doesn't vacate after proper notice."
+    ]
+  },
+  {
+    "question": "Someone forged documents to sell my property.",
+    "type": "Property dispute",
+    "answers": [
+      "File a police complaint for forgery and fraud immediately.",
+      "Consult a property lawyer about filing a civil suit to cancel the fraudulent sale and recover your property."
+    ]
+  },
+  {
+    "question": "I want to challenge a will that excluded me unfairly.",
+    "type": "Property dispute",
+    "answers": [
+      "Consult a lawyer about grounds to contest a will, such as undue influence, fraud, or lack of capacity.",
+      "Gather evidence about the circumstances in which the will was made."
+    ]
+  },
+  {
+    "question": "My property was sold without my consent by a family member.",
+    "type": "Property dispute",
+    "answers": [
+      "Collect ownership documents proving your title or share in the property.",
+      "Consult a property lawyer about filing a suit to challenge the unauthorized sale."
+    ]
+  },
+  {
+    "question": "I bought a defective phone.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Contact the seller/manufacturer in writing for a replacement, repair, or refund under warranty.",
+      "If unresolved, file a complaint with the Consumer Disputes Redressal Commission."
+    ]
+  },
+  {
+    "question": "An online store refuses to refund a cancelled order.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep records of the order, cancellation request, and any communication with the seller.",
+      "File a complaint on the national consumer helpline or consumer forum if the refund isn't processed."
+    ]
+  },
+  {
+    "question": "I was overcharged by a service provider.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep the bill/receipt and raise the discrepancy in writing with the provider.",
+      "Escalate to the consumer forum if the provider doesn't correct the overcharge."
+    ]
+  },
+  {
+    "question": "A builder delivered a flat with major construction defects.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Document the defects with photos and get them assessed, and notify the builder in writing.",
+      "You can file a complaint with RERA or the consumer forum for repair or compensation."
+    ]
+  },
+  {
+    "question": "I was sold a fake or counterfeit product.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep the receipt and product packaging as evidence.",
+      "Report the seller to the consumer forum, and note counterfeit goods can also involve a separate complaint to brand/authorities."
+    ]
+  },
+  {
+    "question": "An airline cancelled my flight and won't refund me.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Check the airline's cancellation policy and your rights under aviation consumer regulations.",
+      "File a complaint with the airline in writing, then escalate to the aviation regulator or consumer forum if unresolved."
+    ]
+  },
+  {
+    "question": "A gym or club is not honoring my membership refund.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Review the membership agreement for cancellation and refund terms.",
+      "File a written complaint, and escalate to the consumer forum if the refund is unjustly denied."
+    ]
+  },
+  {
+    "question": "I was misled by false advertising into buying a product.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep the advertisement and product details as evidence of the misrepresentation.",
+      "You can file a complaint with the consumer forum or advertising standards authority."
+    ]
+  },
+  {
+    "question": "Someone hacked my social media account.",
+    "type": "Cybercrime",
+    "answers": [
+      "Recover the account using official recovery tools.",
+      "Report the incident to the cybercrime portal or police, especially if it's being misused."
+    ]
+  },
+  {
+    "question": "I lost money in an online banking fraud.",
+    "type": "Cybercrime",
+    "answers": [
+      "Immediately report the fraud to your bank to block further transactions and request a chargeback where possible.",
+      "File a complaint on the national cybercrime portal and at your local cybercrime cell."
+    ]
+  },
+  {
+    "question": "Someone is blackmailing me with my private photos.",
+    "type": "Cybercrime",
+    "answers": [
+      "Do not comply with demands; preserve all messages and evidence.",
+      "Report immediately to the cybercrime cell — this is a serious offence and you can request confidentiality."
+    ]
+  },
+  {
+    "question": "I received a phishing message and lost money.",
+    "type": "Cybercrime",
+    "answers": [
+      "Report the fraudulent transaction to your bank immediately to attempt to block/reverse it.",
+      "File a complaint on the national cybercrime portal with transaction details and the phishing message."
+    ]
+  },
+  {
+    "question": "Someone created a fake profile impersonating me online.",
+    "type": "Cybercrime",
+    "answers": [
+      "Report the fake profile to the platform for removal.",
+      "File a cybercrime complaint, especially if the profile is being used to defame or defraud others."
+    ]
+  },
+  {
+    "question": "I am being cyberstalked by someone online.",
+    "type": "Cybercrime",
+    "answers": [
+      "Preserve evidence such as messages, screenshots, and timestamps.",
+      "Report to the cybercrime cell or police; cyberstalking is a criminal offence."
+    ]
+  },
+  {
+    "question": "My identity was used to open a fraudulent online account.",
+    "type": "Cybercrime",
+    "answers": [
+      "Report the fraud to the platform/institution involved and request account closure.",
+      "File a police/cybercrime complaint and monitor your credit or accounts for further misuse."
+    ]
+  },
+  {
+    "question": "I received threatening messages on WhatsApp or social media.",
+    "type": "Cybercrime",
+    "answers": [
+      "Preserve the messages as evidence (screenshots with timestamps).",
+      "Report to the platform and file a complaint with the cybercrime cell or police if the threats continue."
+    ]
+  },
+  {
+    "question": "The doctor gave the wrong treatment.",
+    "type": "Medical negligence",
+    "answers": [
+      "Collect all medical records, prescriptions, and bills related to the treatment.",
+      "Consult a lawyer about filing a complaint with the medical council or consumer forum for negligence."
+    ]
+  },
+  {
+    "question": "A hospital refused emergency treatment to a patient.",
+    "type": "Medical negligence",
+    "answers": [
+      "Hospitals are generally required to provide emergency stabilization regardless of ability to pay.",
+      "Document the refusal and file a complaint with the medical council or health authority."
+    ]
+  },
+  {
+    "question": "I suffered complications due to a botched surgery.",
+    "type": "Medical negligence",
+    "answers": [
+      "Obtain your complete medical records and, if possible, a second medical opinion on what went wrong.",
+      "Consult a lawyer about filing a medical negligence claim with the consumer forum or medical council."
+    ]
+  },
+  {
+    "question": "A clinic overcharged me for unnecessary tests.",
+    "type": "Medical negligence",
+    "answers": [
+      "Keep all bills and test reports as evidence.",
+      "File a complaint with the consumer forum regarding unnecessary or overcharged medical services."
+    ]
+  },
+  {
+    "question": "My newborn suffered injury due to hospital negligence.",
+    "type": "Medical negligence",
+    "answers": [
+      "Secure complete medical records of the delivery and any subsequent treatment.",
+      "Consult a lawyer promptly about a medical negligence claim; time limits may apply."
+    ]
+  },
+  {
+    "question": "A pharmacist gave me the wrong medicine.",
+    "type": "Medical negligence",
+    "answers": [
+      "Keep the prescription, receipt, and packaging of the wrong medicine as evidence.",
+      "Report the incident to the pharmacy regulator and consult a lawyer if you suffered harm."
+    ]
+  },
+  {
+    "question": "I was not informed about risks before a medical procedure.",
+    "type": "Medical negligence",
+    "answers": [
+      "Lack of informed consent can be grounds for a negligence claim.",
+      "Gather your medical records and consult a lawyer about filing a complaint."
+    ]
+  },
+  {
+    "question": "A hospital is withholding my medical records.",
+    "type": "Medical negligence",
+    "answers": [
+      "Patients generally have a right to access their own medical records; request them in writing.",
+      "Escalate to the medical council or consumer forum if the hospital continues to withhold records."
+    ]
+  },
+  {
+    "question": "My landlord is refusing to return my security deposit.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Review your rental agreement and send a written notice.",
+      "Seek legal advice or approach the rent authority if the deposit is withheld without justification."
+    ]
+  },
+  {
+    "question": "My landlord is trying to evict me without notice.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Check your rental agreement and local tenancy laws for required notice periods.",
+      "Consult a lawyer if the eviction attempt doesn't follow the legally required process."
+    ]
+  },
+  {
+    "question": "My landlord won't do necessary repairs in the rented house.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Send a written request for repairs, referencing your rental agreement.",
+      "You may be able to escalate to the rent authority or, in some cases, deduct reasonable repair costs from rent — check local law first."
+    ]
+  },
+  {
+    "question": "I want to break my rental lease early.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Review the lease for early termination clauses and any penalties.",
+      "Discuss with your landlord in writing and consult a lawyer if you disagree on the terms."
+    ]
+  },
+  {
+    "question": "My landlord is charging rent higher than what's in the agreement.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Refer to your signed rental agreement as the binding document on rent amount.",
+      "Send a written objection and consult a lawyer or rent authority if the landlord insists on the higher amount."
+    ]
+  },
+  {
+    "question": "My landlord is entering my rented home without permission.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Review your rental agreement for entry/notice clauses.",
+      "Send a written notice objecting to unauthorized entry, and consult a lawyer if it continues."
+    ]
+  },
+  {
+    "question": "I'm being asked to vacate my rented home immediately.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Legally required notice periods usually apply even to month-to-month tenancies; check your agreement and local law.",
+      "Consult a lawyer if you're being pressured to leave without proper notice or process."
+    ]
+  },
+  {
+    "question": "My housing society is not addressing maintenance issues.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Raise the issue formally in writing to the society's management committee.",
+      "Escalate to the housing society registrar or relevant authority if the issue remains unresolved."
+    ]
+  },
+  {
+    "question": "My college is not giving me my certificates.",
+    "type": "Education dispute",
+    "answers": [
+      "Send a written request citing your right to receive your certificates after completing requirements.",
+      "Escalate to the university/education regulator if the college continues withholding documents without valid reason."
+    ]
+  },
+  {
+    "question": "A school is refusing to refund my child's fees after withdrawal.",
+    "type": "Education dispute",
+    "answers": [
+      "Review the school's fee refund policy as stated at admission.",
+      "File a complaint with the education department if the school withholds a refund unfairly."
+    ]
+  },
+  {
+    "question": "I was expelled from college without a fair hearing.",
+    "type": "Education dispute",
+    "answers": [
+      "Request the college's written grounds for expulsion and review your right to a hearing per institutional rules.",
+      "Consult a lawyer about challenging the expulsion if due process wasn't followed."
+    ]
+  },
+  {
+    "question": "My university is delaying issuing my degree or marksheet.",
+    "type": "Education dispute",
+    "answers": [
+      "Send a written request and track any pending dues or formalities on your end.",
+      "Escalate to the university ombudsman or education regulator if the delay is unjustified."
+    ]
+  },
+  {
+    "question": "A coaching institute is refusing to refund fees.",
+    "type": "Education dispute",
+    "answers": [
+      "Review the enrollment agreement for the refund policy.",
+      "File a complaint with the consumer forum if the institute unfairly withholds a refund."
+    ]
+  },
+  {
+    "question": "I faced ragging or harassment in my college.",
+    "type": "Education dispute",
+    "answers": [
+      "Report the incident to the college's anti-ragging committee immediately.",
+      "You can also file a police complaint, as ragging is a punishable offence in many jurisdictions."
+    ]
+  },
+  {
+    "question": "My child was denied school admission unfairly.",
+    "type": "Education dispute",
+    "answers": [
+      "Request the school's written reason for denial and check it against admission rules/quotas.",
+      "Escalate to the education department if the denial appears to violate applicable admission regulations."
+    ]
+  },
+  {
+    "question": "I was falsely accused of exam malpractice.",
+    "type": "Education dispute",
+    "answers": [
+      "Request the evidence behind the accusation and your right to respond per the institution's rules.",
+      "Consult a lawyer if the disciplinary process seems unfair or the penalty is severe."
+    ]
+  },
+  {
+    "question": "My spouse abandoned me and the children without any support.",
+    "type": "Marriage and family",
+    "answers": [
+      "Consult a family lawyer about maintenance and desertion as grounds for relief.",
+      "Keep records of the abandonment date and any communication for your case."
+    ]
+  },
+  {
+    "question": "I am facing domestic violence and want a protection order.",
+    "type": "Marriage and family",
+    "answers": [
+      "Approach the police or a protection officer under domestic violence law immediately.",
+      "A family lawyer can help you file for a protection order and interim maintenance."
+    ]
+  },
+  {
+    "question": "My marriage was never registered. Is it still legally valid?",
+    "type": "Marriage and family",
+    "answers": [
+      "An unregistered marriage performed with proper rites can still be legally valid; registration is proof, not a requirement.",
+      "Consult a family lawyer to register it now or to confirm validity for legal purposes."
+    ]
+  },
+  {
+    "question": "My ex-spouse is not letting me see our children.",
+    "type": "Marriage and family",
+    "answers": [
+      "Consult a family lawyer about enforcing or modifying your custody/visitation order.",
+      "Keep a written record of denied visitations to support a court application."
+    ]
+  },
+  {
+    "question": "I want to adopt a child. What is the legal process?",
+    "type": "Marriage and family",
+    "answers": [
+      "Consult a family lawyer or the relevant adoption authority about eligibility and procedure.",
+      "Gather required documents (identity, income, home study reports) before applying."
+    ]
+  },
+  {
+    "question": "My in-laws are pressuring me to leave the shared household.",
+    "type": "Marriage and family",
+    "answers": [
+      "You may have a legal right to reside in the shared household; consult a family lawyer.",
+      "Document any threats or pressure in writing or with witnesses."
+    ]
+  },
+  {
+    "question": "I was asked to work without a written employment contract.",
+    "type": "Labour dispute",
+    "answers": [
+      "Request a written contract or offer letter in writing from your employer.",
+      "Keep any emails, messages, or payslips as proof of your employment terms."
+    ]
+  },
+  {
+    "question": "My employer is not paying minimum wage.",
+    "type": "Labour dispute",
+    "answers": [
+      "Check the applicable minimum wage notification for your state and role.",
+      "File a complaint with the labour department if you're being paid below the legal minimum."
+    ]
+  },
+  {
+    "question": "I was demoted without any explanation.",
+    "type": "Labour dispute",
+    "answers": [
+      "Review your employment contract and company policy on demotions.",
+      "Consult a labour lawyer if the demotion appears retaliatory or without due process."
+    ]
+  },
+  {
+    "question": "My contract was terminated during my probation period unfairly.",
+    "type": "Labour dispute",
+    "answers": [
+      "Check your offer letter for probation termination clauses and notice requirements.",
+      "Consult a labour lawyer if you believe the termination was discriminatory or in bad faith."
+    ]
+  },
+  {
+    "question": "I was injured at my workplace and my employer refuses to help.",
+    "type": "Labour dispute",
+    "answers": [
+      "Report the injury in writing and seek medical treatment immediately.",
+      "Consult a labour lawyer about compensation under workplace injury/compensation law."
+    ]
+  },
+  {
+    "question": "My employer is not issuing my relieving letter or experience certificate.",
+    "type": "Labour dispute",
+    "answers": [
+      "Send a written request via email for your relieving letter and experience certificate.",
+      "Consult a labour lawyer if the employer continues to withhold these documents unreasonably."
+    ]
+  },
+  {
+    "question": "I hit a pedestrian while driving and they were injured.",
+    "type": "Traffic accident",
+    "answers": [
+      "Stop immediately, call emergency services, and help the injured person get medical care.",
+      "Report the accident to the police and consult a lawyer about your legal obligations."
+    ]
+  },
+  {
+    "question": "My driving license was suspended after an accident.",
+    "type": "Traffic accident",
+    "answers": [
+      "Check the suspension order for the reason and duration.",
+      "Consult a traffic lawyer about appealing the suspension or reinstating your license."
+    ]
+  },
+  {
+    "question": "I was in an accident and the other party is refusing to file a police report.",
+    "type": "Traffic accident",
+    "answers": [
+      "You can file the First Information Report (FIR) yourself at the nearest police station.",
+      "Collect photos, witness details, and any CCTV footage as evidence."
+    ]
+  },
+  {
+    "question": "My vehicle was towed and impounded after an accident.",
+    "type": "Traffic accident",
+    "answers": [
+      "Ask the police station for the reason and process to reclaim your vehicle.",
+      "Consult a lawyer if you believe the towing or impoundment was unjustified."
+    ]
+  },
+  {
+    "question": "I was a passenger and got injured in a road accident.",
+    "type": "Traffic accident",
+    "answers": [
+      "Seek medical treatment and keep all medical records and bills.",
+      "Consult a lawyer about claiming compensation from the driver's insurance."
+    ]
+  },
+  {
+    "question": "The traffic police issued me a challan for something I didn't do.",
+    "type": "Traffic accident",
+    "answers": [
+      "Check if the challan can be contested online or in the traffic court.",
+      "Keep any evidence (photos, GPS data, witnesses) that supports your case."
+    ]
+  },
+  {
+    "question": "I co-signed a loan for someone and now they've stopped paying.",
+    "type": "Debt dispute",
+    "answers": [
+      "As a co-signer/guarantor, you may be legally liable for the remaining debt.",
+      "Consult a lawyer about your options, including recovering the amount from the primary borrower."
+    ]
+  },
+  {
+    "question": "A company is refusing to return my security deposit for a service.",
+    "type": "Debt dispute",
+    "answers": [
+      "Send a written demand referencing the agreement terms.",
+      "Consult a consumer or civil lawyer if the deposit is withheld without valid reason."
+    ]
+  },
+  {
+    "question": "I am being sued for a debt I already paid off.",
+    "type": "Debt dispute",
+    "answers": [
+      "Gather proof of payment (receipts, bank statements, transaction IDs).",
+      "Consult a lawyer immediately to respond to the legal notice or summons."
+    ]
+  },
+  {
+    "question": "My credit card company is charging me for transactions I didn't make.",
+    "type": "Debt dispute",
+    "answers": [
+      "Report the disputed transactions to your bank in writing immediately.",
+      "Consult a consumer lawyer if the bank refuses to reverse unauthorized charges."
+    ]
+  },
+  {
+    "question": "I want to recover money from someone who moved abroad.",
+    "type": "Debt dispute",
+    "answers": [
+      "Consult a lawyer about cross-border debt recovery options and enforceability.",
+      "Gather all documentation of the loan or agreement to support your claim."
+    ]
+  },
+  {
+    "question": "A moneylender is charging me an illegally high interest rate.",
+    "type": "Debt dispute",
+    "answers": [
+      "Check your state's moneylending law for the legal interest rate cap.",
+      "Consult a lawyer about challenging the excessive interest and reporting the lender."
+    ]
+  },
+  {
+    "question": "I am being investigated for a crime I did not commit.",
+    "type": "Criminal defence",
+    "answers": [
+      "Do not make any statements without a lawyer present.",
+      "Consult a criminal defence lawyer immediately to understand the investigation and your rights."
+    ]
+  },
+  {
+    "question": "My phone was seized by the police without a warrant.",
+    "type": "Criminal defence",
+    "answers": [
+      "Ask for the legal basis and documentation of the seizure.",
+      "Consult a criminal lawyer about challenging an unlawful seizure."
+    ]
+  },
+  {
+    "question": "I witnessed a crime and am being asked to testify. What are my rights?",
+    "type": "Criminal defence",
+    "answers": [
+      "You generally have a legal duty to testify truthfully if summoned as a witness.",
+      "Consult a lawyer if you're concerned about self-incrimination or your safety."
+    ]
+  },
+  {
+    "question": "My case was dismissed but it's still showing on my record.",
+    "type": "Criminal defence",
+    "answers": [
+      "Consult a criminal lawyer about applying to have the record expunged or corrected.",
+      "Get the dismissal order in writing and keep certified copies."
+    ]
+  },
+  {
+    "question": "I received a notice to appear in court but I'm out of town.",
+    "type": "Criminal defence",
+    "answers": [
+      "Consult a lawyer immediately about requesting an adjournment or appearing through counsel.",
+      "Do not ignore the notice, as failing to appear can lead to further legal trouble."
+    ]
+  },
+  {
+    "question": "The police are pressuring me to confess to something I didn't do.",
+    "type": "Criminal defence",
+    "answers": [
+      "You have the right to remain silent and to consult a lawyer before answering questions.",
+      "Contact a criminal defence lawyer immediately and do not sign any statement without legal advice."
+    ]
+  },
+  {
+    "question": "My co-owner wants to sell the property but I don't agree.",
+    "type": "Property dispute",
+    "answers": [
+      "Consult a property lawyer about your rights as a co-owner and possible partition.",
+      "Review the property title and any co-ownership agreement before proceeding."
+    ]
+  },
+  {
+    "question": "I want to know if I can legally partition ancestral property.",
+    "type": "Property dispute",
+    "answers": [
+      "Consult a property lawyer about filing a partition suit for your rightful share.",
+      "Gather property records and proof of your relationship to the original owner."
+    ]
+  },
+  {
+    "question": "My property tax records show the wrong owner name.",
+    "type": "Property dispute",
+    "answers": [
+      "Apply for correction with the local municipal or land revenue office, with your title documents.",
+      "Consult a property lawyer if the department refuses to correct the records."
+    ]
+  },
+  {
+    "question": "A contractor did substandard construction work on my property.",
+    "type": "Property dispute",
+    "answers": [
+      "Document the defects with photos and get an independent inspection report.",
+      "Consult a lawyer about a claim for breach of contract or compensation."
+    ]
+  },
+  {
+    "question": "I want to know my rights if my rented property is being sold.",
+    "type": "Property dispute",
+    "answers": [
+      "Check your rental/lease agreement for clauses regarding sale of the property.",
+      "Consult a property lawyer, as your tenancy rights may continue with the new owner."
+    ]
+  },
+  {
+    "question": "Someone is claiming ownership of my property using a fake will.",
+    "type": "Property dispute",
+    "answers": [
+      "Consult a property lawyer immediately about challenging the fraudulent will in court.",
+      "Gather all your original ownership documents and any evidence of forgery."
+    ]
+  },
+  {
+    "question": "An e-commerce site sent me the wrong product and won't exchange it.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Raise a complaint with the platform in writing and keep screenshots of the order.",
+      "File a complaint with the Consumer Disputes Redressal Commission if unresolved."
+    ]
+  },
+  {
+    "question": "A warranty claim for my appliance was rejected without valid reason.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep your warranty card, purchase receipt, and any service center correspondence.",
+      "Consult a consumer lawyer or file a complaint with the consumer forum."
+    ]
+  },
+  {
+    "question": "I was charged hidden fees that weren't disclosed at purchase.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep the invoice and any promotional material showing the originally advertised price.",
+      "File a complaint with the consumer forum for unfair trade practice."
+    ]
+  },
+  {
+    "question": "A real estate agent misrepresented facts about a property I bought.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Gather all communications and marketing material from the agent as evidence.",
+      "Consult a lawyer about a claim for misrepresentation or fraud."
+    ]
+  },
+  {
+    "question": "My insurance claim was rejected citing a technicality.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Request the rejection reason in writing and review your policy terms carefully.",
+      "Consult a consumer lawyer or approach the insurance ombudsman."
+    ]
+  },
+  {
+    "question": "A subscription service is charging me after I cancelled.",
+    "type": "Consumer complaint",
+    "answers": [
+      "Keep proof of your cancellation request (email, screenshot, confirmation number).",
+      "Dispute the charges with your bank and file a consumer complaint if it continues."
+    ]
+  },
+  {
+    "question": "Someone is threatening to leak my personal data unless I pay them.",
+    "type": "Cybercrime",
+    "answers": [
+      "Do not pay or engage with the extortion demand directly.",
+      "Preserve all evidence and report immediately to the cybercrime portal or police."
+    ]
+  },
+  {
+    "question": "My email account was hacked and used to scam my contacts.",
+    "type": "Cybercrime",
+    "answers": [
+      "Change your password immediately and enable two-factor authentication.",
+      "Warn your contacts and report the incident to the cybercrime cell."
+    ]
+  },
+  {
+    "question": "I received an OTP fraud call and lost money from my account.",
+    "type": "Cybercrime",
+    "answers": [
+      "Contact your bank immediately to block further transactions and report the fraud.",
+      "File a complaint on the cybercrime portal and with the bank's fraud department."
+    ]
+  },
+  {
+    "question": "Someone is spreading false information about me online.",
+    "type": "Cybercrime",
+    "answers": [
+      "Preserve screenshots and links as evidence of the defamatory content.",
+      "Consult a cyber lawyer about a defamation complaint or takedown request."
+    ]
+  },
+  {
+    "question": "My company's data was breached and customer information was leaked.",
+    "type": "Cybercrime",
+    "answers": [
+      "Report the breach to the relevant data protection authority as required by law.",
+      "Consult a cyber lawyer about your legal obligations to notify affected customers."
+    ]
+  },
+  {
+    "question": "I was scammed while trying to buy something on a classifieds website.",
+    "type": "Cybercrime",
+    "answers": [
+      "Preserve the chat, payment receipt, and seller details as evidence.",
+      "Report the incident to the cybercrime portal and your bank if payment was involved."
+    ]
+  },
+  {
+    "question": "A wrong diagnosis led to unnecessary treatment for me.",
+    "type": "Medical negligence",
+    "answers": [
+      "Collect all medical records, test results, and treatment history.",
+      "Consult a lawyer about a medical negligence claim against the diagnosing doctor."
+    ]
+  },
+  {
+    "question": "My surgery left a foreign object inside my body.",
+    "type": "Medical negligence",
+    "answers": [
+      "Get an independent medical opinion and imaging to document the issue.",
+      "Consult a medical negligence lawyer immediately, as this is strong evidence of negligence."
+    ]
+  },
+  {
+    "question": "A dental procedure caused permanent damage to my teeth or gums.",
+    "type": "Medical negligence",
+    "answers": [
+      "Get a second opinion from another dentist and keep all treatment records.",
+      "Consult a lawyer about filing a complaint with the dental council or consumer forum."
+    ]
+  },
+  {
+    "question": "I was given the wrong blood type during a transfusion.",
+    "type": "Medical negligence",
+    "answers": [
+      "Seek immediate medical attention and request full documentation of the incident.",
+      "Consult a lawyer about a medical negligence claim, as this is a serious safety failure."
+    ]
+  },
+  {
+    "question": "A hospital discharged me too early and my condition worsened.",
+    "type": "Medical negligence",
+    "answers": [
+      "Get your discharge summary and readmission records from both instances.",
+      "Consult a lawyer about whether the early discharge amounted to negligence."
+    ]
+  },
+  {
+    "question": "My child was misdiagnosed by a pediatrician, delaying proper treatment.",
+    "type": "Medical negligence",
+    "answers": [
+      "Get a second medical opinion and keep all diagnostic records.",
+      "Consult a medical negligence lawyer about a complaint against the pediatrician."
+    ]
+  },
+  {
+    "question": "My landlord wants to increase rent mid-lease, which isn't allowed by the agreement.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Refer to your lease agreement's rent revision clause and respond in writing.",
+      "Consult a lawyer or local rent authority if the landlord insists on an unauthorized hike."
+    ]
+  },
+  {
+    "question": "I want to know my rights as a tenant if there's no written agreement.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Even without a written agreement, tenants generally have basic legal protections; consult a lawyer.",
+      "Try to get terms confirmed in writing going forward to avoid future disputes."
+    ]
+  },
+  {
+    "question": "My landlord is withholding my belongings after I moved out.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Send a written demand for the return of your belongings with a clear deadline.",
+      "Consult a lawyer about legal remedies if the landlord continues to withhold your property."
+    ]
+  },
+  {
+    "question": "I signed a lease but the landlord is now refusing to hand over the keys.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Send a written notice referencing the signed lease and requesting possession.",
+      "Consult a lawyer about specific performance or damages for breach of the lease."
+    ]
+  },
+  {
+    "question": "My roommate/co-tenant is not paying their share of the rent.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "Review your rental agreement to see who is legally liable for the full rent.",
+      "Consult a lawyer about recovering the unpaid share from your co-tenant."
+    ]
+  },
+  {
+    "question": "My landlord shut off water or electricity to force me out.",
+    "type": "Housing / tenancy",
+    "answers": [
+      "This may be an illegal eviction tactic; document it with photos, dates, and witnesses.",
+      "Contact the police and consult a lawyer about an urgent legal remedy."
+    ]
+  },
+  {
+    "question": "My scholarship was withdrawn without proper explanation.",
+    "type": "Education dispute",
+    "answers": [
+      "Request the reason for withdrawal in writing from the institution.",
+      "Consult a lawyer or the relevant education authority if the withdrawal seems unjustified."
+    ]
+  },
+  {
+    "question": "I was denied a transfer certificate by my previous school.",
+    "type": "Education dispute",
+    "answers": [
+      "Send a written request citing the applicable education board rules.",
+      "Escalate to the education department if the school continues to withhold it."
+    ]
+  },
+  {
+    "question": "My exam results were withheld over a fee dispute.",
+    "type": "Education dispute",
+    "answers": [
+      "Check if withholding results over fees is permitted under your board/university rules.",
+      "Consult a lawyer or approach the education regulator if this appears unlawful."
+    ]
+  },
+  {
+    "question": "A teacher is discriminating against my child at school.",
+    "type": "Education dispute",
+    "answers": [
+      "Document specific incidents with dates and any witnesses.",
+      "Raise a formal written complaint with the school administration and education authority."
+    ]
+  },
+  {
+    "question": "My university is not accommodating my documented disability.",
+    "type": "Education dispute",
+    "answers": [
+      "Request accommodations in writing, referencing your medical documentation.",
+      "Consult a lawyer or disability rights body if the university refuses reasonable accommodation."
+    ]
+  },
+  {
+    "question": "I was overcharged fees not mentioned in the original admission offer.",
+    "type": "Education dispute",
+    "answers": [
+      "Compare the original offer letter/prospectus with the actual charges.",
+      "File a complaint with the education regulator or consumer forum for unfair charges."
+    ]
+  }
+]
